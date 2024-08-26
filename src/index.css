@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --color_primary: #60A5FA;
+  --color_primary_dark: #212121;
+
+  --color_secondary: #fff;
+  --color_secondary_dark: #fff;
+
+  --color_accent: #fff;
+  --color_accent_dark: #fff;
+
+  --color_bg: #fff;
+  --color_bg_dark: #1E1C1C;
+
+}
